@@ -1,0 +1,23 @@
+{
+  "name" : "liujihao/testgit",
+  "description" : "PHP test git",
+  "license":"MIT",
+  "version":"1.0",
+  "authors": [
+    {
+      "name": "FerreWagner",
+      "email": "liujihaoth@126.com"
+    }
+  ],
+  "require" : {
+    "php" : ">=5.3.0",
+    "filp/whoops" : "*",
+    "symfony/var-dumper" : "*",
+    "catfan/medoo":"*",
+    "twig/twig":"~1.0",
+    "phpoffice/phpexcel": "^1.8",
+    "phpmailer/phpmailer": "^5.2"
+  },
+  "keywords" : [ "hahh", "test" ],
+  "type" : "Framework"
+}
